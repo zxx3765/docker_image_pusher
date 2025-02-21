@@ -1,2 +1,1 @@
-registry.cn-beijing.aliyuncs.com
-
+sharelatex/sharelatex
