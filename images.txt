@@ -1,1 +1,2 @@
 mysql
+docker.io/wrm244/sharelatex:with-texlive-full
