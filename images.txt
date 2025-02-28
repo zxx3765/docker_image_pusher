@@ -1,4 +1,4 @@
 mysql
 docker.io/wrm244/sharelatex:with-texlive-full
 ghcr.io/owo-network/deeplx:latest
-docker.io/wrm244/sharelatex:with-texlive-full --platfrom=arm64
+docker.io/wrm244/sharelatex:with-texlive-full --platform=arm64
